@@ -1,0 +1,30 @@
+{
+  "name": "multi-vendo-fetch-service",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000m\u0000u\u0000l\u0000t\u0000i\u0000-\u0000v\u0000e\u0000n\u0000d\u0000o\u0000-\u0000f\u0000e\u0000t\u0000c\u0000h\u0000-\u0000s\u0000e\u0000r\u0000v\u0000i\u0000c\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon api/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashu-oo7/multi-vendo-fetch-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashu-oo7/multi-vendo-fetch-service/issues"
+  },
+  "homepage": "https://github.com/ashu-oo7/multi-vendo-fetch-service#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongodb": "^6.17.0",
+    "nodemon": "^3.1.10",
+    "redis": "^5.5.6",
+    "uuid": "^11.1.0"
+  },
+  "type": "module"
+}
+
